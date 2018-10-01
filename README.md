@@ -1,6 +1,5 @@
 # ExpertSystem
-Opensource Expert System  with Fuzzy Logic to control industrial process using Python Notebook. [(see it here)]
-(http://nbviewer.jupyter.org/github/thimotio/ExpertSystem/blob/master/Froth_Flotation_Fuzzy_Control_v01.ipynb)
+Opensource Expert System  with Fuzzy Logic to control industrial process using Python Notebook. [see it here](http://nbviewer.jupyter.org/github/ihmstefanini/Fuzzy-Expert-System/blob/master/Froth_Flotation_Fuzzy_Control_v01.ipynb)
 
 # Motivation
 Did you know that you could develop advanced industrial process control systems without having to resort to proprietary software?
